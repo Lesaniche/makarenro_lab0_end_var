@@ -6,7 +6,6 @@
 int main()
 {
     std::cout << "Hello World!\n";
-
     char a;
     std::cout << "Input num: ";
     std::cin >> a;
